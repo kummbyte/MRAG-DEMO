@@ -4,6 +4,7 @@
 .ipynb_checkpoints/
 data/
 cache/
+evaluation/results/
 __pycache__/
 *.py[cod]
 
