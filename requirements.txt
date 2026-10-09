@@ -1,0 +1,13 @@
+# PyTorch for NVIDIA Blackwell GPUs (for example, RTX 5070 Ti).
+# Install this file with the CUDA 12.8 index as shown in README.md.
+torch==2.7.1
+torchvision==0.22.1
+
+transformers==4.57.1
+numpy==2.5.3
+Pillow==11.3.0
+matplotlib==3.10.6
+tqdm==4.67.1
+jupyterlab==4.4.7
+ipykernel==6.30.1
+safetensors==0.6.2

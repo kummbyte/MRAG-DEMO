@@ -1,0 +1,17 @@
+.DS_Store
+._*
+.venv/
+.ipynb_checkpoints/
+data/
+cache/
+__pycache__/
+*.py[cod]
+
+# Model weights and exported model files
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+*.gguf
